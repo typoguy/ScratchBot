@@ -1,0 +1,13 @@
+{
+  "bot_ircserver": "irc.server.here",
+  "bot_ircport": 6667,
+  "bot_nick": "ScratchBot",
+  "bot_ident": "scratchbot",
+  "bot_name": "ScratchBot",
+
+  "bot_autojoin": [
+    "#chan1",
+    "#chan2",
+    "#chan3"
+  ]
+}

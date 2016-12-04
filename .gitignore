@@ -1,0 +1,5 @@
+__pycache__/
+*/__pycache__/
+
+# Ignore the ScratchBot config file
+config.json
